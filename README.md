@@ -6,6 +6,6 @@ A short shelf of considered formulas — cold-pressed oils, plant actives, and
 nothing the skin doesn't need.
 
 **Live site:** flora storefront
-**Studio:** 14 Rainbow Street, Jabal Al Weibdeh, Amman
+**Studio:** Paris Circle, Jabal Al Weibdeh, Amman
 
 Static site — HTML, CSS and vanilla JavaScript. No build step.
