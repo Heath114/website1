@@ -1,11 +1,11 @@
-/* Flora — botanical skincare. Design system. */
+/* Nabta — botanical skincare. Design system. */
 :root{
   --paper:#fffdf8; --cream:#f4efe4; --sand:#ece4d3;
   --olive:#3f4a2e; --sage:#7f9163; --sage-soft:#aeb994;
   --clay:#b06a49; --ink:#2a2823; --muted:#6f6a5e; --line:rgba(42,40,35,.14);
   --serif:"Fraunces",Georgia,serif; --sans:"Jost",system-ui,sans-serif;
   --wrap:1240px; --ease:cubic-bezier(.22,1,.36,1);
-  /* rounded, soft-edged design language (Flora leans organic, not sharp) */
+  /* rounded, soft-edged design language (Nabta leans organic, not sharp) */
   --r-pill:999px; --r-lg:24px; --r-md:14px;
 }
 *{margin:0;padding:0;box-sizing:border-box}
