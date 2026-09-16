@@ -1,4 +1,4 @@
-/* Nabta — interactions */
+/* Nabta: interactions */
 (function(){
   // mobile menu
   var burger = document.querySelector('.burger');
